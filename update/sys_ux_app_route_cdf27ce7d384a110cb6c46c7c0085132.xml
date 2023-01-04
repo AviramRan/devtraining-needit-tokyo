@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="NeedIt Experience">854e6ef2d3802110cb6c46c7c00851f3</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table</fields>
+        <icon/>
+        <name>Simple List</name>
+        <optional_parameters>listTitle,query,listView</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>simple-list</route_type>
+        <screen_type display_value="Simple List">45f2fcafd344a110cb6c46c7c008511a</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 12:46:44</sys_created_on>
+        <sys_id>cdf27ce7d384a110cb6c46c7c0085132</sys_id>
+        <sys_name>Simple List</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_cdf27ce7d384a110cb6c46c7c0085132</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=cdf27ce7d384a110cb6c46c7c0085132"/>
+</record_update>
